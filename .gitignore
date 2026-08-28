@@ -1,0 +1,12 @@
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+*.md
+.claude/
+CLAUDE.md
+AGENTS.md
+.env
+*.log
